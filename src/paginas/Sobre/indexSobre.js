@@ -7,6 +7,9 @@ const Sobre = () => {
                 <Link to="/">
                     <button>Home</button>
                 </Link>
+                <Link to="/Cadastro">
+                    <button>Cadastro</button>
+                </Link>
                 <Link to="/Contato">
                     <button>Contato</button>
                 </Link>

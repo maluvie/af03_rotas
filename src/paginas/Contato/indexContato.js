@@ -7,6 +7,9 @@ const Contato = () => {
                 <Link to="/">
                     <button>Home</button>
                 </Link>
+                <Link to="/Cadastro">
+                    <button>Cadastro</button>
+                </Link>
                 <Link to="/Sobre">
                     <button>Sobre</button>
                 </Link>
