@@ -4,6 +4,9 @@ const Home = () => {
     return(
         <div>
             <section class="container">
+                <Link to="/Cadastro">
+                    <button>Cadastro</button>
+                </Link>
                 <Link to="/Sobre">
                     <button>Sobre</button>
                 </Link>
